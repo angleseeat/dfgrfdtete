@@ -85,9 +85,10 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
+                    "tls",
                     "quic"
                 ],
                 "metadataOnly":false
@@ -112,9 +113,10 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
+                    "tls",
                     "quic"
                 ],
                 "metadataOnly":false
@@ -139,9 +141,10 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
+                    "tls",
                     "quic"
                 ],
                 "metadataOnly":false
@@ -167,9 +170,10 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
+                    "tls",
                     "quic"
                 ],
                 "metadataOnly":false
@@ -195,9 +199,10 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
+                    "tls",
                     "quic"
                 ],
                "metadataOnly":false
